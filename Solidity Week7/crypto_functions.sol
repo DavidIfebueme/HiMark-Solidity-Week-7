@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.7.0 <0.9.0;
 
-//A crptographic hash function (CHF) is a mathematical algorith that maps data of an arbitrary size 
+//A Cryptographic Hash Function (CHF) is a mathematical algorithm that maps data of an arbitrary size 
 // to a bit array of a fixed size called hash eg size of an eth addr is 160byted (uint 160)
 
 
